@@ -1,0 +1,21 @@
+# LiDAR Point Cloud Processing - Dependencies
+
+# Core
+open3d>=0.17.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+torch>=2.0.0
+
+# Utilities
+tqdm>=4.65.0
+pyyaml>=6.0
+
+# Development
+jupyter>=1.0.0
+ipywidgets>=8.0.0
